@@ -9,3 +9,6 @@ Before you can run the application you have to provide your credentials via [src
  * Test: ./activator test
 
 More help about additional parameters: ./activator -h
+
+## Status
+[![Build Status](https://travis-ci.org/matterche/message-processing.svg?branch=master)](https://travis-ci.org/matterche/message-processing)
